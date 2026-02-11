@@ -3,6 +3,33 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>高清图像煤矿传送带异物传输带上煤矿异物检测数据集VOC+YOLO格式784张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51yZw==">下载</a></td></tr>
+<tr><td>煤矿传送带上异物矸石螺钉铁片检测数据集VOC+YOLO格式384张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk55pZA==">下载</a></td></tr>
+<tr><td>智慧城市街道摆摊占道经营流动摊贩检测数据集VOC+YOLO格式2401张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51waA==">下载</a></td></tr>
+<tr><td>公交车上遗留物品遗失物品检测数据集VOC+YOLO格式867张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51qZg==">下载</a></td></tr>
+<tr><td>电力场景红外图像绝缘子检测数据集VOC+YOLO格式420张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51pbA==">下载</a></td></tr>
+<tr><td>智慧农业马铃薯土豆叶子病害识别分割数据集labelme格式3004张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5puaw==">下载</a></td></tr>
+<tr><td>电力场景电弧隔离开关手套头盔绝缘子火花变压器检测数据集VOC+YOLO格式4593张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5puZA==">下载</a></td></tr>
+<tr><td>智慧农业田间大豆毛豆黄豆豆荚检测数据集VOC+YOLO格式2688张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ptZg==">下载</a></td></tr>
+<tr><td>高空作业下工人安全带安全帽检测数据集VOC+YOLO格式110张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5psaw==">下载</a></td></tr>
+<tr><td>猫种类品种识别检测数据集VOC+YOLO格式6967张24类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lwag==">下载</a></td></tr>
+<tr><td>红外热成像图像电力设备故障缺陷检测数据集VOC+YOLO格式1729张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lwaA==">下载</a></td></tr>
+<tr><td>无人机视角种植区工棚温棚太阳能板杂物检测数据集VOC+YOLO格式1668张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lqbQ==">下载</a></td></tr>
+<tr><td>无人机视角坟墓棺椁检测数据集VOC+YOLO格式237张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lraw==">下载</a></td></tr>
+<tr><td>无人机视角松材线虫病死树检测数据集VOC+YOLO格式1208张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrag==">下载</a></td></tr>
+<tr><td>无人机视角农田焚烧秸秆田间烟雾检测数据集VOC+YOLO格式2767张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrZw==">下载</a></td></tr>
+<tr><td>无人机视角农田焚烧秸秆田间火点检测数据集VOC+YOLO格式4491张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrZA==">下载</a></td></tr>
+<tr><td>无人机视角农田焚烧秸秆检测数据集VOC+YOLO格式3245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaalp9q">下载</a></td></tr>
+<tr><td>数字手势识别0-9检测数据集VOC+YOLO格式8738张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5htbA==">下载</a></td></tr>
+<tr><td>手势识别VOC+YOLO格式1745张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5htag==">下载</a></td></tr>
+<tr><td>无人机视角智慧电力风力发电机叶片中心识别分割数据集labelme格式798张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saw==">下载</a></td></tr>
+<tr><td>无人机视角路面异常城市道路裂缝泥堆坑洞垃圾积水检测数据集VOC+YOLO格式1274张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZybA==">下载</a></td></tr>
+<tr><td>无人机视角道路坑洞检测数据集VOC+YOLO格式58张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZyZg==">下载</a></td></tr>
+<tr><td>红外热成像图像加油站液体泄漏工厂液体泄漏识别数据集labelme格式2612张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5dpaA==">下载</a></td></tr>
+<tr><td>智慧医疗牙齿疾病龋齿检测数据集VOC+YOLO格式2250张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5dpZg==">下载</a></td></tr>
+<tr><td>智慧农业蓝莓成熟度检测数据集VOC+YOLO格式926张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5Zyaw==">下载</a></td></tr>
+<tr><td>红外热成像图像鸟家禽检测数据集VOC+YOLO格式995张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZyZw==">下载</a></td></tr>
+<tr><td>夜间动物检测数据集VOC+YOLO格式10344张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZxbA==">下载</a></td></tr>
 <tr><td>智慧建筑室内房屋结构识别分割数据集labelme格式2111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5sZA==">下载</a></td></tr>
 <tr><td>智慧农业番茄西红柿识别分割数据集labelme格式2218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5paw==">下载</a></td></tr>
 <tr><td>电力场景变压器杆塔上部件识别分割数据集labelme格式1220张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1ybA==">下载</a></td></tr>
@@ -1909,4 +1936,5 @@
 <tr><td>昆虫检测数据集VOC+YOLO格式1873张7类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/136741747">详情</a></td><td><a href="info.md">下载</a></td></tr>
 </tbody>
 </table>
+
 
