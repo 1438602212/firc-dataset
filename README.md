@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业各种农作物叶子病害检测数据集VOC+YOLO格式9845张86类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZpyaA==">下载</a></td></tr>
+<tr><td>眼部疾病检测数据集VOC+YOLO格式2280张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZpxZA==">下载</a></td></tr>
+<tr><td>茶叶叶片叶子病害检测数据集VOC+YOLO格式2715张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZlwaQ==">下载</a></td></tr>
+<tr><td>下水管道排水管道缺陷损伤异物沉积腐蚀等检测数据集VOC+YOLO格式24318张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZlsbQ==">下载</a></td></tr>
+<tr><td>车辆车架号vin号检测数据集VOC+YOLO格式3393张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZlsaA==">下载</a></td></tr>
+<tr><td>智慧交通驾驶员违规未系安全带玩手机检测数据集VOC+YOLO格式803张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZdsZQ==">下载</a></td></tr>
+<tr><td>农业病虫害检测数据集VOC+YOLO格式2694张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZdqbQ==">下载</a></td></tr>
 <tr><td>六种飞行物飞行目标检测数据集VOC+YOLO格式2029张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZZqbA==">下载</a></td></tr>
 <tr><td>绵羊品种种类检测数据集VOC+YOLO格式314张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZZpZg==">下载</a></td></tr>
 <tr><td>传送带破损损伤识别检测数据集VOC+YOLO格式918张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ9xag==">下载</a></td></tr>
@@ -1984,6 +1991,7 @@
 <tr><td>昆虫检测数据集VOC+YOLO格式1873张7类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/136741747">详情</a></td><td><a href="info.md">下载</a></td></tr>
 </tbody>
 </table>
+
 
 
 
