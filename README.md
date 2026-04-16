@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>隧道渗水空洞检测数据集VOC+YOLO格式1717张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5xvaA==">下载</a></td></tr>
+<tr><td>罂粟检测数据集VOC+YOLO格式772张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5lvZQ==">下载</a></td></tr>
+<tr><td>生活塑料制品分类多种塑料制品识别检测数据集VOC+YOLO格式3842张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5ltZw==">下载</a></td></tr>
+<tr><td>生活塑料制品分类多种塑料制品识别分割数据集labelme格式3842张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5lsbA==">下载</a></td></tr>
+<tr><td>双鱼乒乓球缺陷检测数据集VOC+YOLO格式181张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5lqZw==">下载</a></td></tr>
+<tr><td>电脑主板缺陷计算机主板缺陷检测数据集VOC+YOLO格式1014张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5hpag==">下载</a></td></tr>
 <tr><td>建筑墙面裂缝检测数据集VOC+YOLO格式1795张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5dtZw==">下载</a></td></tr>
 <tr><td>红外光图像人脸组成人脸部件人脸部位识别分割数据集labelme格式886张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5draw==">下载</a></td></tr>
 <tr><td>红外光面部表情人脸表情检测数据集VOC+YOLO格式338张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5draQ==">下载</a></td></tr>
