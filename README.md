@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通自动驾驶场景道路障碍物道路目标识别分割数据集labelme格式1994张34类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp9tbA==">下载</a></td></tr>
+<tr><td>智慧工业金属锈蚀识别分割数据集labelme格式2635张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp9rZQ==">下载</a></td></tr>
+<tr><td>电力场景绝缘子和输电线塔检测数据集VOC+YOLO格式2022张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp5xZg==">下载</a></td></tr>
+<tr><td>电力场景设备检测可见光设备部件检测数据集VOC+YOLO格式633张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xaw==">下载</a></td></tr>
+<tr><td>电力设备红外图像与可见光图像配准数据集205对共410张无标注</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp1vbA==">下载</a></td></tr>
+<tr><td>液体气体泄漏检测数据集VOC+YOLO格式2099张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp1qaA==">下载</a></td></tr>
+<tr><td>智慧农业水稻稻曲病检测数据集VOC+YOLO格式357张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmpxwZw==">下载</a></td></tr>
 <tr><td>变电站红外和可见光配对数据集刀闸套管断路器电压电流互感器避雷器等检测数据集VOC+YOLO格式2354张17类1177对</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmpttaQ==">下载</a></td></tr>
 <tr><td>快递包裹识别分割数据集labelme格式1703张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmphvZw==">下载</a></td></tr>
 <tr><td>无人机视角风力涡轮机缺陷检测数据集VOC+YOLO格式5464张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZ9waA==">下载</a></td></tr>
