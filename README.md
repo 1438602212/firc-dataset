@@ -3,6 +3,24 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角落叶松健康状态检测落叶松病害检测数据集VOC+YOLO格式5004张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ5vbA==">下载</a></td></tr>
+<tr><td>风力发电机与输电杆塔检测数据集VOC+YOLO格式2968张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ5vaw==">下载</a></td></tr>
+<tr><td>遥感图像池塘变电站电塔砖窑太阳能板识别分割数据集labelme格式2209张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1xaA==">下载</a></td></tr>
+<tr><td>高空作业场景下人员安全带安全帽脚手架梯子检测数据集VOC+YOLO格式12661张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm51vZA==">下载</a></td></tr>
+<tr><td>无人机视角农田耕地石块浸水区域耕地障碍检测数据集VOC+YOLO格式1060张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1waQ==">下载</a></td></tr>
+<tr><td>劳动生成作业除草作业状态检测数据集VOC+YOLO格式6064张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1wZg==">下载</a></td></tr>
+<tr><td>劳动生成作业除草作业状态检测数据集VOC+YOLO格式6064张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1wZw==">下载</a></td></tr>
+<tr><td>红外图像工业石化厂区烟火烟囱排放烟雾检测数据集VOC+YOLO格式4137张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1vbQ==">下载</a></td></tr>
+<tr><td>X光图像芯片封装缺陷检测数据集VOC+YOLO格式1709张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1vaw==">下载</a></td></tr>
+<tr><td>植保无人机飞行周边障碍物检测数据集VOC+YOLO格式3665张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1tZQ==">下载</a></td></tr>
+<tr><td>芦荟叶片叶子健康状态检测数据集VOC+YOLO格式2989张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1sag==">下载</a></td></tr>
+<tr><td>菠菜叶子病害检测数据集VOC+YOLO格式1735张5类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1saA==">下载</a></td></tr>
+<tr><td>小葱病虫害检测数据集VOC+YOLO格式333张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1sZw==">下载</a></td></tr>
+<tr><td>PCB板电路板缺陷检测数据集VOC+YOLO格式5954张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1sZg==">下载</a></td></tr>
+<tr><td>智慧农业农机农用机器设备检测数据集VOC+YOLO格式7376张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1sZA==">下载</a></td></tr>
+<tr><td>草莓成熟度检测数据集VOC+YOLO格式1487张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1rbA==">下载</a></td></tr>
+<tr><td>岩石分类火成岩变质岩沉积岩检测数据集VOC+YOLO格式1223张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1rZg==">下载</a></td></tr>
+<tr><td>魔芋叶子叶片病害检测数据集VOC+YOLO格式4325张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ5vag==">下载</a></td></tr>
 <tr><td>数字0-9手势识别检测数据集VOC+YOLO格式2000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZttag==">下载</a></td></tr>
 <tr><td>大白菜与杂草识别分割数据集labelme格式2006张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZpuZw==">下载</a></td></tr>
 <tr><td>白菜叶子健康状态叶子病害检测数据集VOC+YOLO格式2148张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZpuZg==">下载</a></td></tr>
