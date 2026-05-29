@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>自动驾驶场景下实现和虚线车道线识别分割数据集labelme格式5467张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpdpaw==">下载</a></td></tr>
+<tr><td>遥感图像山体滑坡识别分割数据集labelme格式991张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpdpag==">下载</a></td></tr>
+<tr><td>智慧交通防护栏与停止线识别分割数据集labelme格式1184张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpdpaA==">下载</a></td></tr>
+<tr><td>无人机视角河道岸边混凝土砌块表面平整识别分割数据集labelme格式349张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZyaw==">下载</a></td></tr>
+<tr><td>智慧交通公路隧道检测数据集VOC+YOLO格式758张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZyZg==">下载</a></td></tr>
 <tr><td>电力场景仪表类型电流表电压表温度表压力表检测数据集VOC+YOLO格式3216张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZwZA==">下载</a></td></tr>
 <tr><td>室内物品检测数据集VOC+YOLO格式1453张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZvaA==">下载</a></td></tr>
 <tr><td>年龄检测年龄段检测数据集VOC+YOLO格式2834张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZvZw==">下载</a></td></tr>
