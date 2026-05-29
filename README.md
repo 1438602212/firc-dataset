@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景仪表类型电流表电压表温度表压力表检测数据集VOC+YOLO格式3216张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZwZA==">下载</a></td></tr>
+<tr><td>室内物品检测数据集VOC+YOLO格式1453张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZvaA==">下载</a></td></tr>
+<tr><td>年龄检测年龄段检测数据集VOC+YOLO格式2834张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZvZw==">下载</a></td></tr>
+<tr><td>智慧交通警察交警与非交警检测数据集VOC+YOLO格式2277张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpZpag==">下载</a></td></tr>
+<tr><td>扬尘识别分割数据集labelme格式1188张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ9wbA==">下载</a></td></tr>
+<tr><td>地面墙面瓷砖缺陷检测数据集VOC+YOLO格式2143张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ5wbQ==">下载</a></td></tr>
 <tr><td>无人机视角落叶松健康状态检测落叶松病害检测数据集VOC+YOLO格式5004张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ5vbA==">下载</a></td></tr>
 <tr><td>风力发电机与输电杆塔检测数据集VOC+YOLO格式2968张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ5vaw==">下载</a></td></tr>
 <tr><td>遥感图像池塘变电站电塔砖窑太阳能板识别分割数据集labelme格式2209张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlZ1xaA==">下载</a></td></tr>
