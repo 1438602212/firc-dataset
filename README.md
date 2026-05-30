@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧建筑物墙面立面瓷砖脱落裂缝剥落检测数据集VOC+YOLO格式1522张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpluaQ==">下载</a></td></tr>
+<tr><td>窗户干净脏污分类窗户清洁状态分类数据集3299张2类别已划分训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlplsbA==">下载</a></td></tr>
+<tr><td>智慧养殖牛口蹄疫疾病检测数据集VOC+YOLO格式918张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlphuag==">下载</a></td></tr>
+<tr><td>无人机视角航拍海面石油泄漏海面污染识别分割数据集labelme格式1212张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlphrag==">下载</a></td></tr>
+<tr><td>智慧养殖羊羊行为检测数据集VOC+YOLO格式1916张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlphraA==">下载</a></td></tr>
+<tr><td>扑克牌检测数据集VOC+YOLO格式1285张53类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlphrZw==">下载</a></td></tr>
 <tr><td>自动驾驶场景下实现和虚线车道线识别分割数据集labelme格式5467张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpdpaw==">下载</a></td></tr>
 <tr><td>遥感图像山体滑坡识别分割数据集labelme格式991张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpdpag==">下载</a></td></tr>
 <tr><td>智慧交通防护栏与停止线识别分割数据集labelme格式1184张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpdpaA==">下载</a></td></tr>
