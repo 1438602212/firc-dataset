@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>隧道裂缝剥落渗水识别数据集labelme格式2802张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptsZA==">下载</a></td></tr>
+<tr><td>隧道剥落泛碱分层钢筋外露裂缝损伤缺陷识别分割数据集labelme格式1412张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptrbA==">下载</a></td></tr>
+<tr><td>无人机视角智慧建筑墙面瓷砖裂缝剥落斑点水渍检测数据集VOC+YOLO格式289张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptraA==">下载</a></td></tr>
+<tr><td>隧道墙壁缺陷混凝土缺陷隧道裂缝钢筋外露识别分割数据集1216张10类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptqbA==">下载</a></td></tr>
+<tr><td>公路隧道铁路隧道裂缝渗漏水剥落识别分割数据集labelme格式471张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptqaw==">下载</a></td></tr>
+<tr><td>智慧桥梁病害桥梁缺陷桥梁巡检裂缝泛碱钢筋外露检测数据集VOC+YOLO格式7925张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpprbA==">下载</a></td></tr>
+<tr><td>疟疾细胞检测数据集VOC+YOLO格式948张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlplxZQ==">下载</a></td></tr>
 <tr><td>智慧建筑物墙面立面瓷砖脱落裂缝剥落检测数据集VOC+YOLO格式1522张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpluaQ==">下载</a></td></tr>
 <tr><td>窗户干净脏污分类窗户清洁状态分类数据集3299张2类别已划分训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlplsbA==">下载</a></td></tr>
 <tr><td>智慧养殖牛口蹄疫疾病检测数据集VOC+YOLO格式918张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlphuag==">下载</a></td></tr>
