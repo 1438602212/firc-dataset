@@ -3,6 +3,34 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角光伏板热成像缺陷检测数据集VOC+YOLO格式7332张8类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtZQ==">下载</a></td></tr>
+<tr><td>无人机视角林业森林砍伐巡检数据集VOC+YOLO格式130张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtZA==">下载</a></td></tr>
+<tr><td>室内家具居家用品识别分割数据集labelme格式5890张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtaQ==">下载</a></td></tr>
+<tr><td>遥感图像油井检测数据集VOC+YOLO格式3473张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZybQ==">下载</a></td></tr>
+<tr><td>智慧医疗腹腔断层CT脏器识别分割数据集labelme格式1030张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZrbA==">下载</a></td></tr>
+<tr><td>智慧医疗羊水识别分割数据集labelme格式3200张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZraQ==">下载</a></td></tr>
+<tr><td>狗狗表情识别分割数据集labelme格式2083张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZqZQ==">下载</a></td></tr>
+<tr><td>电力场景高压输电线无人机巡检缺陷异常识别分割数据集labelme格式3454张23类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZpaQ==">下载</a></td></tr>
+<tr><td>智慧农业水稻病虫害识别分割数据集labelme格式1006张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZpZw==">下载</a></td></tr>
+<tr><td>智慧课堂学生上课行为检测数据集VOC+YOLO格式12406张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9ybQ==">下载</a></td></tr>
+<tr><td>飞机地面作业状态检测数据集VOC+YOLO格式8702张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9yaw==">下载</a></td></tr>
+<tr><td>集装箱外观缺陷表面缺陷检测数据集VOC+YOLO格式9600张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xbA==">下载</a></td></tr>
+<tr><td>红外图像垃圾可回收垃圾检测数据集VOC+YOLO格式2171张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xaQ==">下载</a></td></tr>
+<tr><td>大枣类型检测数据集VOC+YOLO格式1102张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xaA==">下载</a></td></tr>
+<tr><td>智慧医疗耳内镜图像耳朵内疾病检测数据集VOC+YOLO格式5627张10类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xZw==">下载</a></td></tr>
+<tr><td>狗狗姿态行为检测数据集VOC+YOLO格式1282张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xZQ==">下载</a></td></tr>
+<tr><td>网纹瓜成熟度检测数据集VOC+YOLO格式339张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xZA==">下载</a></td></tr>
+<tr><td>乒乓球位置检测数据集VOC+YOLO格式2613张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9wbQ==">下载</a></td></tr>
+<tr><td>门把手检测数据集VOC+YOLO格式2684张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9wag==">下载</a></td></tr>
+<tr><td>苍蝇与蚊子检测数据集VOC+YOLO格式5339张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9wZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍油棕树健康状态检测数据集VOC+YOLO格式3131张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9tZw==">下载</a></td></tr>
+<tr><td>智慧医疗牙齿类型识别位置识别分割数据集labelme格式3971张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpxybA==">下载</a></td></tr>
+<tr><td>火车箱体损坏和门开关状态检测数据集VOC+YOLO格式2101张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpxyag==">下载</a></td></tr>
+<tr><td>木材运输车辆检测数据集VOC+YOLO格式1752张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpxyaA==">下载</a></td></tr>
+<tr><td>大枣好坏分类检测数据集VOC+YOLO格式922张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlpxyZQ==">下载</a></td></tr>
+<tr><td>地下室施工工程要素检测地下室设备设施检测数据集VOC+YOLO格式8174张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5Zyaw==">下载</a></td></tr>
+<tr><td>游泳池危险情况游泳溺水检测数据集VOC+YOLO格式5039张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZyaA==">下载</a></td></tr>
+<tr><td>蚊子检测数据集VOC+YOLO格式7672张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9xZg==">下载</a></td></tr>
 <tr><td>隧道裂缝剥落渗水识别数据集labelme格式2802张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptsZA==">下载</a></td></tr>
 <tr><td>隧道剥落泛碱分层钢筋外露裂缝损伤缺陷识别分割数据集labelme格式1412张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptrbA==">下载</a></td></tr>
 <tr><td>无人机视角智慧建筑墙面瓷砖裂缝剥落斑点水渍检测数据集VOC+YOLO格式289张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlptraA==">下载</a></td></tr>
