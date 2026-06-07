@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景钢丝绳连接处金属线夹检测数据集VOC+YOLO格式1175张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5xpaA==">下载</a></td></tr>
+<tr><td>智慧医疗ACDC数据集MRI图像心梗扩张型心肌病肥厚型心肌病右心室病变识别分割数据集labelme格式1147张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5tpZw==">下载</a></td></tr>
+<tr><td>智慧医疗TN3K数据集甲状腺结节识别分割数据集labelme格式3493张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5pwaQ==">下载</a></td></tr>
+<tr><td>Synapse腹部CT多器官分割数据集png图片+掩码图片+颜色映射表</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5pvZw==">下载</a></td></tr>
 <tr><td>无人机视角光伏板热成像缺陷检测数据集VOC+YOLO格式7332张8类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtZQ==">下载</a></td></tr>
 <tr><td>无人机视角林业森林砍伐巡检数据集VOC+YOLO格式130张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtZA==">下载</a></td></tr>
 <tr><td>室内家具居家用品识别分割数据集labelme格式5890张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtaQ==">下载</a></td></tr>
