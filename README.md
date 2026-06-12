@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水面黄花蔺分割数据集labelme格式1003张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyag==">下载</a></td></tr>
+<tr><td>遥感图像地块类型土地类型识别分割数据集labelme格式5704张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyaQ==">下载</a></td></tr>
+<tr><td>电力场景红外图像电力输电线部件识别分割数据集labelme格式1488张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyZw==">下载</a></td></tr>
+<tr><td>树上枣子成熟度识别数据集labelme格式234张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyZg==">下载</a></td></tr>
+<tr><td>垃圾废弃物识别分割数据集labelme格式2240张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlxbQ==">下载</a></td></tr>
+<tr><td>智慧建筑室内外构件要素识别分割数据集labelme格式5516张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyZA==">下载</a></td></tr>
 <tr><td>非真实场景模拟机场跑道识别分割数据集labelme格式2000张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJhxag==">下载</a></td></tr>
 <tr><td>盲人道路路口辅助分析识别分割数据集labelme格式4184张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJhxaA==">下载</a></td></tr>
 <tr><td>无人机视角洪水识别分割数据集labelme格式1173张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJhxZg==">下载</a></td></tr>
