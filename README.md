@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>国内快递面单识别检测数据集VOC+YOLO格式422张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZZsaA==">下载</a></td></tr>
+<tr><td>旋翼无人机检测数据集VOC+YOLO格式1462张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZZpbA==">下载</a></td></tr>
+<tr><td>攀爬检测数据集VOC+YOLO格式6135张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZZpZQ==">下载</a></td></tr>
+<tr><td>菠菜叶子病虫害检测数据集VOC+YOLO格式1911张2类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJ9yZQ==">下载</a></td></tr>
+<tr><td>智慧医疗头颅侧位片特征点检测数据集VOC+YOLO格式1571张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJ9sbA==">下载</a></td></tr>
+<tr><td>油桶检测数据集VOC+YOLO格式458张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJ9saQ==">下载</a></td></tr>
 <tr><td>水面黄花蔺分割数据集labelme格式1003张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyag==">下载</a></td></tr>
 <tr><td>遥感图像地块类型土地类型识别分割数据集labelme格式5704张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyaQ==">下载</a></td></tr>
 <tr><td>电力场景红外图像电力输电线部件识别分割数据集labelme格式1488张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyZw==">下载</a></td></tr>
