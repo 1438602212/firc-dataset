@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>超市秤盘电子表显示数字电子秤读数检测数据集VOC+YOLO格式104张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZttag==">下载</a></td></tr>
+<tr><td>超市秤盘上水果苹果香蕉西红柿黄瓜检测数据集VOC+YOLO格式2836张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtsaQ==">下载</a></td></tr>
+<tr><td>智慧医疗药片有无检测数据集VOC+YOLO格式935张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtsaA==">下载</a></td></tr>
+<tr><td>智慧铁路轨道安全螺栓缺失异物检测数据集VOC+YOLO格式2105张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtpaw==">下载</a></td></tr>
+<tr><td>智慧交通道路裂缝坑洞警示杆窨井目标检测数据集VOC+YOLO格式4957张27类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZpsaw==">下载</a></td></tr>
+<tr><td>中国象棋检测数据集VOC+YOLO格式2149张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZlxaw==">下载</a></td></tr>
+<tr><td>智慧交通路标线褪色井盖缺失数据集指示牌损坏路灯损坏路面异常检测数据集VOC+YOLO格式1164张37类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZhwZA==">下载</a></td></tr>
+<tr><td>辣椒青椒幼苗和杂草检测数据集VOC+YOLO格式706张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZhsaQ==">下载</a></td></tr>
+<tr><td>电力场景输电线路螺孔螺母检测数据集VOC+YOLO格式1001张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZdyZg==">下载</a></td></tr>
+<tr><td>智慧铁路轨道铁轨道钉检测数据集VOC+YOLO格式5056张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZppZQ==">下载</a></td></tr>
 <tr><td>国内快递面单识别检测数据集VOC+YOLO格式422张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZZsaA==">下载</a></td></tr>
 <tr><td>旋翼无人机检测数据集VOC+YOLO格式1462张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZZpbA==">下载</a></td></tr>
 <tr><td>攀爬检测数据集VOC+YOLO格式6135张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZZpZQ==">下载</a></td></tr>
@@ -1385,7 +1395,6 @@
 <tr><td>棉花杂草检测数据集VOC+YOLO格式4279张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp9pbQ==">下载</a></td></tr>
 <tr><td>马铃薯土豆幼苗与杂草检测数据集VOC+YOLO格式3051张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp5ybA==">下载</a></td></tr>
 <tr><td>茄子幼苗与杂草检测数据集VOC+YOLO格式2194张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp5xZA==">下载</a></td></tr>
-<tr><td>辣椒青椒幼苗和杂草检测数据集VOC+YOLO格式706张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp5wbA==">下载</a></td></tr>
 <tr><td>绝缘子缺陷检测数据集VOC+YOLO格式1566张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkp1wbA==">下载</a></td></tr>
 <tr><td>智慧交通-道路车道线检测数据集VOC+YOLO格式1783张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkp1paQ==">下载</a></td></tr>
 <tr><td>玉米叶子病害检测数据集VOC+YOLO格式5997张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkpxpZQ==">下载</a></td></tr>
