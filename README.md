@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角建筑外立面裂缝鼓包剥落缺陷检测数据集VOC+YOLO格式14295张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ5yZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道巡检水面区域识别分割数据集labelme格式2758张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ5saA==">下载</a></td></tr>
+<tr><td>无人机视角航拍城市道路裂缝坑洞缺陷检测数据集VOC+YOLO格式999张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ5qZQ==">下载</a></td></tr>
+<tr><td>城市道路路面坑洞裂缝检测数据集VOC+YOLO格式1023张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ5pbQ==">下载</a></td></tr>
+<tr><td>智慧农业机器人田垄识别道路树木区域识别分割数据集labelme格式2560张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ1xbQ==">下载</a></td></tr>
+<tr><td>墙面砖体裂缝剥落砖头墙壁缺陷识别分割数据集labelme格式1300张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ1qZA==">下载</a></td></tr>
+<tr><td>葵花籽质量检测葵花籽好坏检测数据集VOC+YOLO格式1000张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ1pag==">下载</a></td></tr>
+<tr><td>无人机视角建筑垃圾倾倒露天垃圾堆放点城市垃圾废弃物检测数据集VOC+YOLO格式3385张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZ9rag==">下载</a></td></tr>
 <tr><td>超市秤盘电子表显示数字电子秤读数检测数据集VOC+YOLO格式104张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZttag==">下载</a></td></tr>
 <tr><td>超市秤盘上水果苹果香蕉西红柿黄瓜检测数据集VOC+YOLO格式2836张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtsaQ==">下载</a></td></tr>
 <tr><td>智慧医疗药片有无检测数据集VOC+YOLO格式935张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtsaA==">下载</a></td></tr>
