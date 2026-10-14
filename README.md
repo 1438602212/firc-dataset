@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角农田飞鸟检测数据集VOC+YOLO格式101张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpduag==">下载</a></td></tr>
+<tr><td>钻井钻探作业可识别钻机钻杆矿工电缆架识别数据集分割数据集labelme格式480张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpdqZw==">下载</a></td></tr>
+<tr><td>红外图像光伏组件缺陷检测数据集VOC+YOLO格式1773张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpdpaw==">下载</a></td></tr>
+<tr><td>电力场景变电站缺陷可识别渗漏油异物金属腐蚀呼吸器变色检测数据集VOC+YOLO格式1171张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpZxaA==">下载</a></td></tr>
+<tr><td>智慧农业农田田间道路识别分割数据集labelme格式401张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpZrbA==">下载</a></td></tr>
+<tr><td>矿山场景下目标可识别矿工矿车红绿灯大煤块标志检测数据集VOC+YOLO格式2429张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ9tZw==">下载</a></td></tr>
+<tr><td>甲状腺超声波图像疾病结节检测数据集VOC+YOLO格式8602张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ5vag==">下载</a></td></tr>
 <tr><td>城市盲道及障碍物检测数据集VOC+YOLO格式9705张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ5qbQ==">下载</a></td></tr>
 <tr><td>稻米谷物稻谷种子缺陷识别分割数据集labelme格式205张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ1raw==">下载</a></td></tr>
 <tr><td>城市道路叶子叶堆检测数据集VOC+YOLO格式351张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZxqag==">下载</a></td></tr>
@@ -34,7 +41,6 @@
 <tr><td>游戏场景矿石目标检测数据集VOC+YOLO格式308张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxpZg==">下载</a></td></tr>
 <tr><td>车内饰品缺陷车内部件表面缺陷检测数据集VOC+YOLO格式1491张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxbQ==">下载</a></td></tr>
 <tr><td>无人机视角海边沙滩垃圾检测数据集VOC+YOLO格式603张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxaQ==">下载</a></td></tr>
-<tr><td>工厂安全操作规范检测数据集VOC+YOLO格式3774张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtwZw==">下载</a></td></tr>
 <tr><td>无人机视角航拍农田植株健康养分缺失和杂草丛检测数据集VOC+YOLO格式3280张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtwZA==">下载</a></td></tr>
 <tr><td>金属门窗外观表面缺陷检测数据集VOC+YOLO格式3998张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtvbA==">下载</a></td></tr>
 <tr><td>无人机视角河道及周边垃圾检测数据集VOC+YOLO格式907张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtyZQ==">下载</a></td></tr>
@@ -119,7 +125,6 @@
 <tr><td>智慧铁路轨道要素轨道信号标志识别分割数据集labelme格式5092张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5vag==">下载</a></td></tr>
 <tr><td>电力场景红外可见光图像配电站电力设施要素隔离开关避雷器检测数据集VOC+YOLO格式2688张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZtqaQ==">下载</a></td></tr>
 <tr><td>豆类种子质检好坏分类检测数据集VOC+YOLO格式633张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZpvaw==">下载</a></td></tr>
-
 <tr><td>无人机视角船舶作业场景下人员工作人员检测数据集VOC+YOLO格式1432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZg==">下载</a></td></tr>
 <tr><td>工业车间工人检测数据集VOC+YOLO格式2131张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZA==">下载</a></td></tr>
 <tr><td>交通工具可识别汽车公共汽车自行车摩托车应急车滑板车检测数据集VOC+YOLO格式5877张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZhtbA==">下载</a></td></tr>
@@ -272,7 +277,7 @@
 <tr><td>桥梁结构劣化识别检测数据集VOC+YOLO格式4321张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZZuZw==">下载</a></td></tr>
 <tr><td>道路动物横穿马路检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5rbQ==">下载</a></td></tr>
 <tr><td>道路动物横穿马路检测数据集VOC+YOLO格式895张52类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5raw==">下载</a></td></tr>
-<tr><td>暴力行为+打架图像分类数据集含2000个包含暴力或非暴力行为的视频片段mp4格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ1qaQ==">下载</a></td></tr>
+<tr><td>暴力行为+打架分类数据集含2000个包含暴力或非暴力行为的视频片段mp4格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ1qaQ==">下载</a></td></tr>
 <tr><td>监控视角非机动车违规交通行为检测摩托车自行车违章行为检测数据集VOC+YOLO格式5861张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5qaA==">下载</a></td></tr>
 <tr><td>遥感图像停车区域检测数据集VOC+YOLO格式2239张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJxxbQ==">下载</a></td></tr>
 <tr><td>无人机视角热成像城市街道井盖检测数据集VOC+YOLO格式1021张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJtvbA==">下载</a></td></tr>
@@ -1527,7 +1532,7 @@
 <tr><td>煤和传送带皮带识别分割数据集labelme格式970张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51xag==">下载</a></td></tr>
 <tr><td>智慧工厂红外气体泄漏检测数据集VOC+YOLO格式1612张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51uaA==">下载</a></td></tr>
 <tr><td>红外气体泄漏分割数据集labelme格式1612张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52cm51u">下载</a></td></tr>
-<tr><td>NBI医学影像喉部疾病检测数据集VOC+YOLO格式8571张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWYm51paA==">下载</a></td></tr>
+<tr><td>NBI医学影像喉部疾病检测数据集VOC+YOLO格式8571张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmphwaA==">下载</a></td></tr>
 <tr><td>176类森林树叶图像分类数据集18352张176类含测试集8801张</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51qbA==">下载</a></td></tr>
 <tr><td>汽车表面划痕部件损坏缺陷检测数据集VOC YOLO格式7802张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5xtaA==">下载</a></td></tr>
 <tr><td>输电线路红外图像与可见光图像融合数据集含分割标签红外图像为CSV格式需转换可用图像配准</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5xpZA==">下载</a></td></tr>
